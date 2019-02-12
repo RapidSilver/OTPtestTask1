@@ -46,7 +46,6 @@ public class Main {
       System.out.println(firstIP[0] + "." + firstIP[1] + "." + firstIP[2] + "." + i);
     }
 
-
   }
 
   public static String[] inputIP() {
